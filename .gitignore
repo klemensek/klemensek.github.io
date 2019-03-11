@@ -1,0 +1,9 @@
+.idea/
+composer.lock
+composer.phar
+vendor/
+cache/
+*.bak
+!.gitignore
+node_modules
+package-lock.json
